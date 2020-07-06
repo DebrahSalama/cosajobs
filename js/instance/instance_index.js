@@ -24,7 +24,7 @@ $('#log_in').on('click',function(){
 		//check if password is valid
 		if(valid_password)
 		{
-			alert("Wrong password..");
+			alert("Please Enter a  valid password");
 		}
 		else
 		{
