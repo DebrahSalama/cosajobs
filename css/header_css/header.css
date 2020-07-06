@@ -1,0 +1,11 @@
+/*style for the ..about class link--*/
+#about_us
+{
+	color: blue;
+	margin-left: 80%;
+}
+
+.inline_content
+{
+	display: inline;
+}

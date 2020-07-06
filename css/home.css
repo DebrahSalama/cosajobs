@@ -1,0 +1,57 @@
+/* header styles*/
+#header
+{
+	/*---code to be added here---*/
+}
+
+/*---Logo styling---*/
+h3#logo
+{
+	display: inline;
+	margin-right: 5%;
+}
+
+/*---post job link----*/
+
+#post_job 
+{
+	margin-right: 5%;
+
+}
+
+/*--log out link---*/
+#log_out
+{
+	/*--code to be added--*/
+}
+
+/*--search bar styles---*/
+#cosa_search
+{
+	margin-right: 5%;
+}
+
+/*--logo design---*/
+#logo
+{
+	/*---code to be added here----*/
+	
+}
+
+/*--display jobs styles---*/
+.user_name
+{
+	color: green;
+	display: inline;
+}
+
+.job_heading
+{
+	background-color: purple;
+}
+
+.test_job
+{
+	color: blue;
+	font-size: 20px;
+}

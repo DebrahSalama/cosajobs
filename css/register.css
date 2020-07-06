@@ -1,0 +1,41 @@
+/*style the input fields*/
+.user_input
+{
+	display: block;
+	width: 60%;
+	height: 80px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/*styles the text that infoems the user to 
+upload profile picture*/
+
+#profile_info
+{
+
+	display: block;
+	width: 60%;
+	height: 20px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+/*style the promotional message*/
+blockquote
+{
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*style teh footer element*/
+footer
+{
+	background-color: purple;
+	color: yellow;
+}

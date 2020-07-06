@@ -1,0 +1,32 @@
+/*style the main container*/
+
+#main_container
+{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/*style the minor cotainer*/
+
+.minor 
+{
+	background-color: rgb(224,224,224);
+}
+
+/*heading in minor class*/
+
+.about_heading 
+{
+	background-color: rgb(204,153,255);
+}
+
+/*blockquote for our dedicative trust to customers*/
+
+blockquote
+{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
